@@ -1,0 +1,250 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Canal Del Futbol |EC|" tvg-logo="" group-title="CANALES DE ECUADOR",Canal Del Futbol |EC|
+http://bulltv.us:2999/hernandez/hernandez/24256
+
+#EXTINF:-1 group-title="CANALES DE ECUADOR", RTS
+https://youvideostreaming.club/hls/ecutv2.m3u8
+
+#EXTINF:-1 group-title="CANALES DE ECUADOR", PASAJE
+https://canal.pasajetv.com/PasajeTV.m3u8
+
+#EXTINF:-1 group-title="CANALES DE ECUADOR", ECOTEL
+https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CANALES DE ECUADOR",Canal Del Futbol |EC|
+http://bulltv.us:2999/hernandez/hernandez/24256
+
+#EXTINF:-1 group-title="CANALES DE ECUADOR", TOP LATINO
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/chunklist_w1798831677.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D7HC79b.png" group-title="CANALES DE ECUADOR", Canela TV
+https://59d39900ebfb8.streamlock.net/canelatv/canelatv/chunklist_w872952838.m3u8
+
+#EXTINF:-1 group-title="CANALES DE ECUADOR",TELESISTEMA
+http://k4.usastreams.com/ARBtv/ARBtv/chunklist_w1070665175.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/puruwaTV/picture?width=320&height=320" group-title="CANALES DE ECUADOR", Puruwa TV
+https://mediacp.us:8081/8054/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="CANALES DE ECUADOR",ECUAESTEREO
+https://video.misistemareseller.com/ecuastereotv/ecuastereotv/chunklist_w1639083648.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k7yZgTl.jpg" group-title="CANALES DE ECUADOR", GolTV Ecuador
+http://bulltv.us:2999/hernandez/hernandez/84
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M7Sxxes.png" group-title="CANALES DE ECUADOR", TC TV
+http://bulltv.us:2999/hernandez/hernandez/362
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/1200px-Teleamazonas_Logo.png" group-title="CANALES DE ECUADOR", TELEAMAZONAS
+http://bulltv.us:2999/hernandez/hernandez/363
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-sL_iUqpF9FY/XjcCN8kUF6I/AAAAAAAABBc/fhjSKdz8wsY3zO3LqhgW3aE1eAD_6G1SgCLcBGAsYHQ/s200/2.png" group-title="CANALES DE ECUADOR",OROMAR
+http://bulltv.us:2999/hernandez/hernandez/364
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-OMPMntXc6lM/XjhF7YDCBdI/AAAAAAAABDU/aszZYGRCdbQW_KeaPYo3ZNBfxgMbrFUpwCLcBGAsYHQ/s200/7.png" group-title="CANALES DE ECUADOR",GAMA TV
+http://bulltv.us:2999/hernandez/hernandez/360
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-WZoevRCibrQ/XazFPI2G7nI/AAAAAAAAAlQ/Tm2GHOyjZuIjYxYN8ynbjF34iTCRQZzSQCLcBGAsYHQ/s200/18.png" group-title="CANALES DE ECUADOR",Directv ECUADOR
+http://bulltv.us:2999/hernandez/hernandez/24258
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/--90BXVoDPZI/X2OkjgWweSI/AAAAAAAABSU/YTX3resfxp0-BWciVn1jSlyEKKGLKi_HQCLcBGAsYHQ/w200-h200/Ecuador.png" group-title="CANALES DE ECUADOR",Ecuador TV 
+http://bulltv.us:2999/hernandez/hernandez/356
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A77n66o-FQI/XjcBYqkTzXI/AAAAAAAABBU/uhcdf-8Bmp4WjMiaUtm0f_O5MxQi1KeiACLcBGAsYHQ/s200/1.png" group-title="CANALES DE ECUADOR",Ecuavisa
+http://bulltv.us:2999/hernandez/hernandez/357
+
+#EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-name="Ecuavisa (720)" tvg-logo="https://1.bp.blogspot.com/-A77n66o-FQI/XjcBYqkTzXI/AAAAAAAABBU/uhcdf-8Bmp4WjMiaUtm0f_O5MxQi1KeiACLcBGAsYHQ/s200/1.png" group-title="CANALES DE ECUADOR",Ecuavisa
+http://bulltv.us:2999/hernandez/hernandez/358
+
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A77n66o-FQI/XjcBYqkTzXI/AAAAAAAABBU/uhcdf-8Bmp4WjMiaUtm0f_O5MxQi1KeiACLcBGAsYHQ/s200/1.png" group-title="CANALES DE ECUADOR",Ecuavisa
+http://bulltv.us:2999/hernandez/hernandez/359
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-xF1vpNkIs98/X7K_vuu_nVI/AAAAAAAAB3w/bETiZLyf2HEEBD9jz_rS-YvYKLDRO2QygCLcBGAsYHQ/w200-h200/Canal%2Bdel%2Bf%25C3%25BAtbol.png" group-title="CANALES DE ECUADOR",Canal Del Futbol
+http://bulltv.us:2999/hernandez/hernandez/24257
+
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",Canal Del Futbol |EC|
+http://bulltv.us:2999/hernandez/hernandez/24256
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vF3MeoG.png" group-title="DEPORTES", TNT Sports
+http://bulltv.us:2999/hernandez/hernandez/122
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vF3MeoG.png" group-title="DEPORTES", TNT Sports HD
+http://bulltv.us:2999/hernandez/hernandez/224
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k7yZgTl.jpg" group-title="DEPORTES", GolTV Ecuador
+http://bulltv.us:2999/hernandez/hernandez/84
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k7yZgTl.jpg" group-title="DEPORTES", GolTV
+http://www.tvnetplay.com:32100/live/1803522430/EVZvIVlCnV/12314.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="DEPORTES", Fox Sports 3
+http://bulltv.us:2999/hernandez/hernandez/79
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ktm1uTw.png" group-title="DEPORTES", Fox Sports 
+http://bulltv.us:2999/hernandez/hernandez/350
+
+#EXTINF:-1 tvg-id="" tvg-name="Espn (720)" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="DEPORTES",Espn 
+http://iptvhn.sytes.net:25461/Demos/wqPVW2mxgP/42
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="DEPORTES",Espn
+http://iptvhn.sytes.net:25461/Demos/wqPVW2mxgP/44
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/01Ba60s.png" group-title="DEPORTES", Fox Sports 
+http://bulltv.us:2999/hernandez/hernandez/78
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="DEPORTES", Fox Sports 2
+http://www.tvnetplay.com:32100/live/1803522430/EVZvIVlCnV/12311.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" group-title="DEPORTES", Fox Sports
+http://www.tvnetplay.com:32100/live/1803522430/EVZvIVlCnV/12312.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Espn (720)" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="DEPORTES",Espn
+http://iptvhn.sytes.net:25461/Demos/wqPVW2mxgP/45
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TG1HRPi.png" group-title="DEPORTES", Directv
+http://bulltv.us:2999/hernandez/hernandez/352
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TG1HRPi.png" group-title="DEPORTES", Directv
+http://iptvhn.sytes.net:25461/Demos/wqPVW2mxgP/44
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qltczdi.jpg" group-title="DEPORTES", ESPN 4
+http://www.tvnetplay.com:32100/live/1803522430/EVZvIVlCnV/12310.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qltczdi.jpg" group-title="DEPORTES", ESPN
+http://www.tvnetplay.com:32100/live/1803522430/EVZvIVlCnV/16488.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qltczdi.jpg" group-title="DEPORTES", ESPN 2
+http://www.tvnetplay.com:32100/live/1803522430/EVZvIVlCnV/12308.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ADT0rV4.png" group-title="NATIONAL GEOGRAPIG", National Geograpig Wild
+http://bulltv.us:2999/hernandez/hernandez/103
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ADT0rV4.png" group-title="NATIONAL GEOGRAPIG", National Geograpig
+http://bulltv.us:2999/hernandez/hernandez/104
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="" group-title="NATIONAL GEOGRAPIG",Discovery Channel
+http://bulltv.us:2999/hernandez/hernandez/42
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jVzZVH3.jpg" group-title="NATIONAL GEOGRAPIG", Discovery World
+http://bulltv.us:2999/hernandez/hernandez/44
+
+#EXTINF:-1 tvg-logo="" group-title="NATIONAL GEOGRAPIG", Discovery Family
+http://bulltv.us:2999/hernandez/hernandez/45
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Zp8RIL3.jpg" group-title="NATIONAL GEOGRAPIG", Discovery ID
+http://bulltv.us:2999/hernandez/hernandez/47
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6eX4oWs.jpg" group-title="NATIONAL GEOGRAPIG", Discovery Turbo
+http://bulltv.us:2999/hernandez/hernandez/52
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AuuyOt4.png" group-title="NATIONAL GEOGRAPIG", Discovery WORD
+http://bulltv.us:2999/hernandez/hernandez/53
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x21Z38j.png" group-title="Infantil", Disney Channel
+http://bulltv.us:2999/hernandez/hernandez/54
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yXimKFN.png" group-title="Infantil", Nick JR
+http://bulltv.us:2999/hernandez/hernandez/105
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ev2Mwbl.png" group-title="Infantil", Disney JR
+http://bulltv.us:2999/hernandez/hernandez/55
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x32Zx8S.png" group-title="Infantil", Disney XD
+http://bulltv.us:2999/hernandez/hernandez/56
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cjq0hdC.png" group-title="TV PREMIUN",Space
+http://iptvhn.sytes.net:25461/Demos/wqPVW2mxgP/72
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YW38cxR.png" group-title="TV PREMIUN", De Pelicula
+http://bulltv.us:2999/hernandez/hernandez/41
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k7yZgTl.jpg" group-title="TV PREMIUN", GolTV Ecuador
+http://bulltv.us:2999/hernandez/hernandez/84
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T0fzait.png" group-title="TV PREMIUN", _Golden Edge
+http://bulltv.us:2999/hernandez/hernandez/85
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T0fzait.png" group-title="TV PREMIUN", Golden Plus
+http://bulltv.us:2999/hernandez/hernandez/86
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5GZsY7O.png" group-title="TV PREMIUN", TNT
+http://iptvhn.sytes.net:25461/Demos/wqPVW2mxgP/74
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VjhL79o.jpg" group-title="TV PREMIUN", HBO 2
+http://iptvhn.sytes.net:25461/Demos/wqPVW2mxgP/65
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9tvUNC3.png" group-title="TV PREMIUN", HBO
+http://bulltv.us:2999/hernandez/hernandez/87
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZNPFSXc.png" group-title="TV PREMIUN", HBO POP
+http://bulltv.us:2999/hernandez/hernandez/98
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m73mTZm.png" group-title="TV PREMIUN", HBO Xtreme
+http://bulltv.us:2999/hernandez/hernandez/12277
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DJfEaMT.png" group-title="TV PREMIUN", HBO Family
+http://bulltv.us:2999/hernandez/hernandez/89
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZNPFSXc.png" group-title="TV PREMIUN", HBO +
+http://iptvhn.sytes.net:25461/Demos/wqPVW2mxgP/66
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oLdsuOS.png" group-title="TV PREMIUN", History
+http://bulltv.us:2999/hernandez/hernandez/92
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0OpKA6g.jpg" group-title="TV PREMIUN", Sony
+http://bulltv.us:2999/hernandez/hernandez/112
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="TV PREMIUN", Golden
+http://bulltv.us:2999/hernandez/hernandez/244
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="TV PREMIUN", Golden Premier
+http://bulltv.us:2999/hernandez/hernandez/245
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tKuGOYa.jpg" group-title="TV PREMIUN", Studio Universal
+http://bulltv.us:2999/hernandez/hernandez/116
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p8CMPlq.png" group-title="TV PREMIUN", Syfy
+http://bulltv.us:2999/hernandez/hernandez/118
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/37J9OSx.png" group-title="NOVELAS", Pasiones
+http://bulltv.us:2999/hernandez/hernandez/23
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/37J9OSx.png" group-title="NOVELAS", Pasiones
+http://bulltv.us:2999/hernandez/hernandez/108
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J6OezZH.png" group-title="NOVELAS", RCN  Novelas
+http://bulltv.us:2999/hernandez/hernandez/109
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/37J9OSx.png" group-title="NOVELAS", Pasiones
+http://bulltv.us:2999/hernandez/hernandez/22
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRTENIMIENTO", PELICULAS
+http://bulltv.us:2999/hernandez/hernandez/238
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRTENIMIENTO", PELICULAS
+http://bulltv.us:2999/hernandez/hernandez/240
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ENTRTENIMIENTO", PELICULAS
+http://bulltv.us:2999/hernandez/hernandez/115
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p8CMPlq.png" group-title="Musica", musica
+http://bulltv.us:2999/hernandez/hernandez/122
+
+
